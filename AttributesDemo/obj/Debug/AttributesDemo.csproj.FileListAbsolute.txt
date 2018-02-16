@@ -14,3 +14,9 @@ C:\Users\ldazu\Desktop\AttributesDemo\AttributesDemo\obj\Debug\AttributesDemo.cs
 C:\Users\ldazu\Desktop\AttributesDemo\AttributesDemo\obj\Debug\AttributesDemo.csproj.CoreCompileInputs.cache
 C:\Users\ldazu\Desktop\AttributesDemo\AttributesDemo\obj\Debug\AttributesDemo.dll
 C:\Users\ldazu\Desktop\AttributesDemo\AttributesDemo\obj\Debug\AttributesDemo.pdb
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo\bin\Debug\AttributesDemo.dll
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo\bin\Debug\AttributesDemo.pdb
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo\obj\Debug\AttributesDemo.csprojResolveAssemblyReference.cache
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo\obj\Debug\AttributesDemo.csproj.CoreCompileInputs.cache
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo\obj\Debug\AttributesDemo.dll
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo\obj\Debug\AttributesDemo.pdb

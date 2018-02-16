@@ -26,3 +26,13 @@ C:\Users\ldazu\Desktop\AttributesDemo\AttributesDemo.Tests\obj\Debug\AttributesD
 C:\Users\ldazu\Desktop\AttributesDemo\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.csproj.CoreCompileInputs.cache
 C:\Users\ldazu\Desktop\AttributesDemo\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.dll
 C:\Users\ldazu\Desktop\AttributesDemo\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.pdb
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\bin\Debug\AttributesDemo.Tests.dll
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\bin\Debug\AttributesDemo.Tests.pdb
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\bin\Debug\AttributesDemo.dll
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\bin\Debug\AttributesDemo.pdb
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\bin\Debug\nunit.framework.xml
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.dll
+C:\Users\ldazu\source\repos\Git\UT-Basic-NUnit-Refresh\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.pdb
