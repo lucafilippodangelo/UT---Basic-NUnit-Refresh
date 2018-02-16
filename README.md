@@ -1,4 +1,4 @@
-# UT-Basic-NUnit-Refresh
+# UT Basic NUnit Refresh
 
 This quick project to refresh some basics of NUnit
 
@@ -68,7 +68,7 @@ the purpose is: run the same test with multiple test case data. What we do is ju
 
 - //LD STEP6
 
- ```
+```
     [TestCase(-5, -10, 15)]
     [TestCase(-5, -5, 10)]
     [TestCase(5, 0, -5)] //LD we subtract "firstNum","secondNum"
@@ -79,7 +79,7 @@ the purpose is: run the same test with multiple test case data. What we do is ju
         sut.Subtract(secondNum);
         Assert.That(sut.CurrentValue, Is.EqualTo(expectedNum));
     }
-     ```
+```
 
 is possible: reuse "TestCase" with [TestCaseSource]
 
