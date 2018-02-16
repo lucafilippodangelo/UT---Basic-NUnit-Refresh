@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="AttributesDemo.Tests.SomeNamespace.MemoryCalculatorTests.ShouldAdd" /><Add Test="AttributesDemo.Tests.SomeNamespace.MemoryCalculatorTests.ShouldSubtract" /></Playlist>
